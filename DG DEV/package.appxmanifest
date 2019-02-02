@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:iot="http://schemas.microsoft.com/appx/manifest/iot/windows10" IgnorableNamespaces="uap mp iot">
   <Identity Name="7831DebjyotiGorai.DGDEV" Version="1.0.0.0" Publisher="CN=194F6857-1E4A-4EE1-A91D-84288D3DF1E8" />
-  <mp:PhoneIdentity PhoneProductId="bed8d35b-5b6d-4a40-bd3b-0f9f1892c947" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <mp:PhoneIdentity PhoneProductId="d161386d-8aaf-473d-b0e6-3e308315fd50" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>DG DEV</DisplayName>
     <PublisherDisplayName>Debjyoti Gorai</PublisherDisplayName>
